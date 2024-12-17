@@ -15,3 +15,6 @@ Dieser Datensatz bietet eine Grundlage zur Analyse globaler Bevölkerungs- und M
 Der Datensatz enthält keine personenbezogenen Daten und tangiert daher keine Datenschutz-Richtlinien wie DSGVO oder vergleichbare Gesetze. Die Daten wurden auf Länderebene aggregiert und stellen keine identifizierbaren Informationen dar.
 
 Der Datensatz wurde auf der öffentlich zugänglichen Website https://www.kaggle.com gewählt.
+
+# Zentrale Fragestellung
+Wie entwickeln sich globale Bevölkerungs- und Migrationsbewegungen in den nächsten 5–10 Jahren, und wie beeinflusst ein Bevölkerungswachstum die Netto-Migration in verschiedenen Ländern?
